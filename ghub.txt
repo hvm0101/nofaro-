@@ -1,0 +1,7 @@
+git add --nome_arquivo ou git add .
+git commit -m "Mensagem de commit";
+git fetch
+git pull
+git push
+
+git add . //adiciona todos os arquivo de uma vez 
